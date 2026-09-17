@@ -5,9 +5,9 @@ over vigtige kontakter.
 
 ## Funktioner
 
-- **Side 1**: tjekliste.
-- **Side 2**: tilføj nyt punkt.
-- **Side 3**: kontakter.
+- **Side 1**: sejlklar tjekliste.
+- **Side 2**: tilføj nyt punkt til tjekliste.
+- **Side 3**: nødvendige kontakter.
 
 - **Tjekliste**: tryk på et punkt for at markere det som udført. Tilføj
   egne punkter via "+ Tilføj punkt".
