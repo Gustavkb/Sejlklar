@@ -28,8 +28,7 @@ terminalen for at åbne i iOS-simulator.
 
 
 ## Video
-
-[Link til demovideo indsættes her]
+https://www.loom.com/share/7e723c6c920e4fc582de0ea774ff1792
 
 ## Github
-
+https://github.com/Gustavkb/Sejlklar/tree/main
