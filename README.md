@@ -1,10 +1,13 @@
 # Sejlklar
 
 Simpel React Native-app til sejlere: en tjekliste før afsejling og en liste
-over vigtige kontakter (fx søredning eller sejlklubben) med direkte
-ring-op-funktion.
+over vigtige kontakter.
 
 ## Funktioner
+
+- **Side 1**: tjekliste.
+- **Side 2**: tilføj nyt punkt.
+- **Side 3**: kontakter.
 
 - **Tjekliste**: tryk på et punkt for at markere det som udført. Tilføj
   egne punkter via "+ Tilføj punkt".
