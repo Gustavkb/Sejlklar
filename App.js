@@ -11,8 +11,6 @@ import KontakterScreen from './screens/KontakterScreen';
 const Tab = createBottomTabNavigator();
 const TjeklisteStack = createNativeStackNavigator();
 
-// Tjekliste + "Tilføj punkt" ligger i deres egen stack, så man kan
-// navigere frem og tilbage inden for samme fane.
 function TjeklisteStackNavigator() {
   return (
     <TjeklisteStack.Navigator>
