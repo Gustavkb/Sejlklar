@@ -45,7 +45,7 @@ Scan QR-koden med Expo Go på telefonen, eller tryk `i` i terminalen for at
 København).
 
 ## Demovideo
-- Iteration 2: _[indsæt link]_
+- Iteration 2: https://www.loom.com/share/8950eaaf1ca8449da1f06767d644947d
 - Iteration 1: https://www.loom.com/share/7e723c6c920e4fc582de0ea774ff1792
 
 ## GitHub
